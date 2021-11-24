@@ -1,0 +1,13 @@
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf04\CourseExercicioPropostoIf04\bin\Debug\netcoreapp3.1\CourseExercicioPropostoIf04.exe
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf04\CourseExercicioPropostoIf04\bin\Debug\netcoreapp3.1\CourseExercicioPropostoIf04.deps.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf04\CourseExercicioPropostoIf04\bin\Debug\netcoreapp3.1\CourseExercicioPropostoIf04.runtimeconfig.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf04\CourseExercicioPropostoIf04\bin\Debug\netcoreapp3.1\CourseExercicioPropostoIf04.runtimeconfig.dev.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf04\CourseExercicioPropostoIf04\bin\Debug\netcoreapp3.1\CourseExercicioPropostoIf04.dll
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf04\CourseExercicioPropostoIf04\bin\Debug\netcoreapp3.1\CourseExercicioPropostoIf04.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf04\CourseExercicioPropostoIf04\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf04.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf04\CourseExercicioPropostoIf04\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf04.AssemblyInfoInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf04\CourseExercicioPropostoIf04\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf04.AssemblyInfo.cs
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf04\CourseExercicioPropostoIf04\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf04.csproj.CoreCompileInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf04\CourseExercicioPropostoIf04\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf04.dll
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf04\CourseExercicioPropostoIf04\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf04.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf04\CourseExercicioPropostoIf04\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf04.genruntimeconfig.cache

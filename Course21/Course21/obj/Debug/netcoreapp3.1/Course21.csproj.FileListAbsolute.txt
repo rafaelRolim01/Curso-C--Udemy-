@@ -1,0 +1,13 @@
+C:\CursoC#\Udemy\AulaC#Udemy\Course21\Course21\bin\Debug\netcoreapp3.1\Course21.exe
+C:\CursoC#\Udemy\AulaC#Udemy\Course21\Course21\bin\Debug\netcoreapp3.1\Course21.deps.json
+C:\CursoC#\Udemy\AulaC#Udemy\Course21\Course21\bin\Debug\netcoreapp3.1\Course21.runtimeconfig.json
+C:\CursoC#\Udemy\AulaC#Udemy\Course21\Course21\bin\Debug\netcoreapp3.1\Course21.runtimeconfig.dev.json
+C:\CursoC#\Udemy\AulaC#Udemy\Course21\Course21\bin\Debug\netcoreapp3.1\Course21.dll
+C:\CursoC#\Udemy\AulaC#Udemy\Course21\Course21\bin\Debug\netcoreapp3.1\Course21.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\Course21\Course21\obj\Debug\netcoreapp3.1\Course21.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\Udemy\AulaC#Udemy\Course21\Course21\obj\Debug\netcoreapp3.1\Course21.AssemblyInfoInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\Course21\Course21\obj\Debug\netcoreapp3.1\Course21.AssemblyInfo.cs
+C:\CursoC#\Udemy\AulaC#Udemy\Course21\Course21\obj\Debug\netcoreapp3.1\Course21.csproj.CoreCompileInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\Course21\Course21\obj\Debug\netcoreapp3.1\Course21.dll
+C:\CursoC#\Udemy\AulaC#Udemy\Course21\Course21\obj\Debug\netcoreapp3.1\Course21.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\Course21\Course21\obj\Debug\netcoreapp3.1\Course21.genruntimeconfig.cache

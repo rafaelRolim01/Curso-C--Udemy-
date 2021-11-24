@@ -1,0 +1,13 @@
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoClass02\CourseExercicioPropostoClass02\bin\Debug\netcoreapp3.1\CourseExercicioPropostoClass02.exe
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoClass02\CourseExercicioPropostoClass02\bin\Debug\netcoreapp3.1\CourseExercicioPropostoClass02.deps.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoClass02\CourseExercicioPropostoClass02\bin\Debug\netcoreapp3.1\CourseExercicioPropostoClass02.runtimeconfig.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoClass02\CourseExercicioPropostoClass02\bin\Debug\netcoreapp3.1\CourseExercicioPropostoClass02.runtimeconfig.dev.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoClass02\CourseExercicioPropostoClass02\bin\Debug\netcoreapp3.1\CourseExercicioPropostoClass02.dll
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoClass02\CourseExercicioPropostoClass02\bin\Debug\netcoreapp3.1\CourseExercicioPropostoClass02.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoClass02\CourseExercicioPropostoClass02\obj\Debug\netcoreapp3.1\CourseExercicioPropostoClass02.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoClass02\CourseExercicioPropostoClass02\obj\Debug\netcoreapp3.1\CourseExercicioPropostoClass02.AssemblyInfoInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoClass02\CourseExercicioPropostoClass02\obj\Debug\netcoreapp3.1\CourseExercicioPropostoClass02.AssemblyInfo.cs
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoClass02\CourseExercicioPropostoClass02\obj\Debug\netcoreapp3.1\CourseExercicioPropostoClass02.csproj.CoreCompileInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoClass02\CourseExercicioPropostoClass02\obj\Debug\netcoreapp3.1\CourseExercicioPropostoClass02.dll
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoClass02\CourseExercicioPropostoClass02\obj\Debug\netcoreapp3.1\CourseExercicioPropostoClass02.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoClass02\CourseExercicioPropostoClass02\obj\Debug\netcoreapp3.1\CourseExercicioPropostoClass02.genruntimeconfig.cache

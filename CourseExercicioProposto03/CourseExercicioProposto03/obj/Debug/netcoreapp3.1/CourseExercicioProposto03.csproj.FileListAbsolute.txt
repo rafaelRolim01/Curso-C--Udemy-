@@ -1,0 +1,14 @@
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioProposto03\CourseExercicioProposto03\bin\Debug\netcoreapp3.1\CourseExercicioProposto03.exe
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioProposto03\CourseExercicioProposto03\bin\Debug\netcoreapp3.1\CourseExercicioProposto03.deps.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioProposto03\CourseExercicioProposto03\bin\Debug\netcoreapp3.1\CourseExercicioProposto03.runtimeconfig.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioProposto03\CourseExercicioProposto03\bin\Debug\netcoreapp3.1\CourseExercicioProposto03.runtimeconfig.dev.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioProposto03\CourseExercicioProposto03\bin\Debug\netcoreapp3.1\CourseExercicioProposto03.dll
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioProposto03\CourseExercicioProposto03\bin\Debug\netcoreapp3.1\CourseExercicioProposto03.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioProposto03\CourseExercicioProposto03\obj\Debug\netcoreapp3.1\CourseExercicioProposto03.csproj.AssemblyReference.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioProposto03\CourseExercicioProposto03\obj\Debug\netcoreapp3.1\CourseExercicioProposto03.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioProposto03\CourseExercicioProposto03\obj\Debug\netcoreapp3.1\CourseExercicioProposto03.AssemblyInfoInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioProposto03\CourseExercicioProposto03\obj\Debug\netcoreapp3.1\CourseExercicioProposto03.AssemblyInfo.cs
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioProposto03\CourseExercicioProposto03\obj\Debug\netcoreapp3.1\CourseExercicioProposto03.csproj.CoreCompileInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioProposto03\CourseExercicioProposto03\obj\Debug\netcoreapp3.1\CourseExercicioProposto03.dll
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioProposto03\CourseExercicioProposto03\obj\Debug\netcoreapp3.1\CourseExercicioProposto03.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioProposto03\CourseExercicioProposto03\obj\Debug\netcoreapp3.1\CourseExercicioProposto03.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf06\CourseExercicioPropostoIf06\bin\Debug\netcoreapp3.1\CourseExercicioPropostoIf06.exe
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf06\CourseExercicioPropostoIf06\bin\Debug\netcoreapp3.1\CourseExercicioPropostoIf06.deps.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf06\CourseExercicioPropostoIf06\bin\Debug\netcoreapp3.1\CourseExercicioPropostoIf06.runtimeconfig.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf06\CourseExercicioPropostoIf06\bin\Debug\netcoreapp3.1\CourseExercicioPropostoIf06.runtimeconfig.dev.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf06\CourseExercicioPropostoIf06\bin\Debug\netcoreapp3.1\CourseExercicioPropostoIf06.dll
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf06\CourseExercicioPropostoIf06\bin\Debug\netcoreapp3.1\CourseExercicioPropostoIf06.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf06\CourseExercicioPropostoIf06\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf06.csproj.AssemblyReference.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf06\CourseExercicioPropostoIf06\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf06.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf06\CourseExercicioPropostoIf06\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf06.AssemblyInfoInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf06\CourseExercicioPropostoIf06\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf06.AssemblyInfo.cs
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf06\CourseExercicioPropostoIf06\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf06.csproj.CoreCompileInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf06\CourseExercicioPropostoIf06\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf06.dll
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf06\CourseExercicioPropostoIf06\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf06.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoIf06\CourseExercicioPropostoIf06\obj\Debug\netcoreapp3.1\CourseExercicioPropostoIf06.genruntimeconfig.cache

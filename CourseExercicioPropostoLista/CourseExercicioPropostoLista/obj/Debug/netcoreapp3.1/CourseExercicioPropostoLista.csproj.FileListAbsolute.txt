@@ -1,0 +1,14 @@
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoLista\CourseExercicioPropostoLista\bin\Debug\netcoreapp3.1\CourseExercicioPropostoLista.exe
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoLista\CourseExercicioPropostoLista\bin\Debug\netcoreapp3.1\CourseExercicioPropostoLista.deps.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoLista\CourseExercicioPropostoLista\bin\Debug\netcoreapp3.1\CourseExercicioPropostoLista.runtimeconfig.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoLista\CourseExercicioPropostoLista\bin\Debug\netcoreapp3.1\CourseExercicioPropostoLista.runtimeconfig.dev.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoLista\CourseExercicioPropostoLista\bin\Debug\netcoreapp3.1\CourseExercicioPropostoLista.dll
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoLista\CourseExercicioPropostoLista\bin\Debug\netcoreapp3.1\CourseExercicioPropostoLista.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoLista\CourseExercicioPropostoLista\obj\Debug\netcoreapp3.1\CourseExercicioPropostoLista.csproj.AssemblyReference.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoLista\CourseExercicioPropostoLista\obj\Debug\netcoreapp3.1\CourseExercicioPropostoLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoLista\CourseExercicioPropostoLista\obj\Debug\netcoreapp3.1\CourseExercicioPropostoLista.AssemblyInfoInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoLista\CourseExercicioPropostoLista\obj\Debug\netcoreapp3.1\CourseExercicioPropostoLista.AssemblyInfo.cs
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoLista\CourseExercicioPropostoLista\obj\Debug\netcoreapp3.1\CourseExercicioPropostoLista.csproj.CoreCompileInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoLista\CourseExercicioPropostoLista\obj\Debug\netcoreapp3.1\CourseExercicioPropostoLista.dll
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoLista\CourseExercicioPropostoLista\obj\Debug\netcoreapp3.1\CourseExercicioPropostoLista.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPropostoLista\CourseExercicioPropostoLista\obj\Debug\netcoreapp3.1\CourseExercicioPropostoLista.genruntimeconfig.cache

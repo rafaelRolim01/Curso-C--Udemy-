@@ -1,0 +1,14 @@
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPoposto02\CourseExercicioPoposto02\bin\Debug\netcoreapp3.1\CourseExercicioPoposto02.exe
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPoposto02\CourseExercicioPoposto02\bin\Debug\netcoreapp3.1\CourseExercicioPoposto02.deps.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPoposto02\CourseExercicioPoposto02\bin\Debug\netcoreapp3.1\CourseExercicioPoposto02.runtimeconfig.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPoposto02\CourseExercicioPoposto02\bin\Debug\netcoreapp3.1\CourseExercicioPoposto02.runtimeconfig.dev.json
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPoposto02\CourseExercicioPoposto02\bin\Debug\netcoreapp3.1\CourseExercicioPoposto02.dll
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPoposto02\CourseExercicioPoposto02\bin\Debug\netcoreapp3.1\CourseExercicioPoposto02.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPoposto02\CourseExercicioPoposto02\obj\Debug\netcoreapp3.1\CourseExercicioPoposto02.csproj.AssemblyReference.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPoposto02\CourseExercicioPoposto02\obj\Debug\netcoreapp3.1\CourseExercicioPoposto02.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPoposto02\CourseExercicioPoposto02\obj\Debug\netcoreapp3.1\CourseExercicioPoposto02.AssemblyInfoInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPoposto02\CourseExercicioPoposto02\obj\Debug\netcoreapp3.1\CourseExercicioPoposto02.AssemblyInfo.cs
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPoposto02\CourseExercicioPoposto02\obj\Debug\netcoreapp3.1\CourseExercicioPoposto02.csproj.CoreCompileInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPoposto02\CourseExercicioPoposto02\obj\Debug\netcoreapp3.1\CourseExercicioPoposto02.dll
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPoposto02\CourseExercicioPoposto02\obj\Debug\netcoreapp3.1\CourseExercicioPoposto02.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\CourseExercicioPoposto02\CourseExercicioPoposto02\obj\Debug\netcoreapp3.1\CourseExercicioPoposto02.genruntimeconfig.cache

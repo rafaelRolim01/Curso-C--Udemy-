@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\Course11\Course11\bin\Debug\netcoreapp3.1\Course11.exe
+C:\Users\rafae\source\repos\Course11\Course11\bin\Debug\netcoreapp3.1\Course11.deps.json
+C:\Users\rafae\source\repos\Course11\Course11\bin\Debug\netcoreapp3.1\Course11.runtimeconfig.json
+C:\Users\rafae\source\repos\Course11\Course11\bin\Debug\netcoreapp3.1\Course11.runtimeconfig.dev.json
+C:\Users\rafae\source\repos\Course11\Course11\bin\Debug\netcoreapp3.1\Course11.dll
+C:\Users\rafae\source\repos\Course11\Course11\bin\Debug\netcoreapp3.1\Course11.pdb
+C:\Users\rafae\source\repos\Course11\Course11\obj\Debug\netcoreapp3.1\Course11.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Course11\Course11\obj\Debug\netcoreapp3.1\Course11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Course11\Course11\obj\Debug\netcoreapp3.1\Course11.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Course11\Course11\obj\Debug\netcoreapp3.1\Course11.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Course11\Course11\obj\Debug\netcoreapp3.1\Course11.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Course11\Course11\obj\Debug\netcoreapp3.1\Course11.dll
+C:\Users\rafae\source\repos\Course11\Course11\obj\Debug\netcoreapp3.1\Course11.pdb
+C:\Users\rafae\source\repos\Course11\Course11\obj\Debug\netcoreapp3.1\Course11.genruntimeconfig.cache
