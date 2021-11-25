@@ -1,0 +1,14 @@
+C:\CursoC#\Udemy\AulaC#Udemy\Course027\Course027\bin\Debug\netcoreapp3.1\Course027.exe
+C:\CursoC#\Udemy\AulaC#Udemy\Course027\Course027\bin\Debug\netcoreapp3.1\Course027.deps.json
+C:\CursoC#\Udemy\AulaC#Udemy\Course027\Course027\bin\Debug\netcoreapp3.1\Course027.runtimeconfig.json
+C:\CursoC#\Udemy\AulaC#Udemy\Course027\Course027\bin\Debug\netcoreapp3.1\Course027.runtimeconfig.dev.json
+C:\CursoC#\Udemy\AulaC#Udemy\Course027\Course027\bin\Debug\netcoreapp3.1\Course027.dll
+C:\CursoC#\Udemy\AulaC#Udemy\Course027\Course027\bin\Debug\netcoreapp3.1\Course027.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\Course027\Course027\obj\Debug\netcoreapp3.1\Course027.csproj.AssemblyReference.cache
+C:\CursoC#\Udemy\AulaC#Udemy\Course027\Course027\obj\Debug\netcoreapp3.1\Course027.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\Udemy\AulaC#Udemy\Course027\Course027\obj\Debug\netcoreapp3.1\Course027.AssemblyInfoInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\Course027\Course027\obj\Debug\netcoreapp3.1\Course027.AssemblyInfo.cs
+C:\CursoC#\Udemy\AulaC#Udemy\Course027\Course027\obj\Debug\netcoreapp3.1\Course027.csproj.CoreCompileInputs.cache
+C:\CursoC#\Udemy\AulaC#Udemy\Course027\Course027\obj\Debug\netcoreapp3.1\Course027.dll
+C:\CursoC#\Udemy\AulaC#Udemy\Course027\Course027\obj\Debug\netcoreapp3.1\Course027.pdb
+C:\CursoC#\Udemy\AulaC#Udemy\Course027\Course027\obj\Debug\netcoreapp3.1\Course027.genruntimeconfig.cache
